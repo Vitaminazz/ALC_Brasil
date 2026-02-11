@@ -1,0 +1,68 @@
+{
+  "name": "Product",
+  "type": "object",
+  "description": "Produto técnico da ALC com variações por modelo",
+
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Identificador único do produto (slug, rota, chave)"
+    },
+
+    "name": {
+      "type": "string",
+      "description": "Nome comercial do produto"
+    },
+
+    "description": {
+      "type": "string",
+      "description": "Descrição geral do produto (não específica por modelo)"
+    },
+
+    "category": {
+      "type": "string",
+      "description": "Categoria do produto (ex: peças agrícolas, industriais, etc)"
+    },
+
+    "featured": {
+      "type": "boolean",
+      "default": false,
+      "description": "Define se o produto aparece em destaque no site"
+    },
+
+    "image_url": {
+      "type": "string",
+      "description": "Imagem principal do produto"
+    },
+
+    "pdf_url": {
+      "type": "string",
+      "description": "Ficha técnica ou catálogo em PDF"
+    },
+
+    "models": {
+      "type": "array",
+      "description": "Variações técnicas do produto (tamanhos, capacidades, códigos)",
+      "items": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "description": "Nome do modelo (ex: Cubo 6T, Ø45 x 1200 mm, UCP 205)"
+          },
+
+          "specs": {
+            "type": "object",
+            "description": "Especificações técnicas livres do modelo",
+            "additionalProperties": {
+              "type": "string"
+            }
+          }
+        },
+        "required": ["label", "specs"]
+      }
+    }
+  },
+
+  "required": ["id", "name", "models"]
+}

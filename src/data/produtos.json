@@ -1,0 +1,434 @@
+[
+  {
+    "id": "cubo-agricola",
+    "name": "Cubo Agrícola",
+    "description": "Cubo agrícola fabricado em aço SAE 1045 com sistema de lubrificação por graxa, disponível em diversas capacidades de carga e configurações técnicas para implementos agrícolas.",
+    "category": "pecas_agricolas",
+    "featured": true,
+    "image_url": "/pecasAgricolas/CuboAgricola.png",
+    "pdf_url": "",
+    "models": [
+      {
+        "label": "Cubo 4T 5 furos",
+        "specs": {
+          "CÓDIGO": "20.4.5.10.110.001",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "4 Ton",
+          "QTDE_FUROS": "5",
+          "ENCAIXE_RODA_MM": "110",
+          "EIXO_SAE_1045": "Ø 1.3/4\" x 212 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "152"
+        }
+      },
+      {
+        "label": "Cubo 4T 6 furos",
+        "specs": {
+          "CÓDIGO": "20.4.6.10.117.001",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "4 Ton",
+          "QTDE_FUROS": "6",
+          "ENCAIXE_RODA_MM": "117/118",
+          "EIXO_SAE_1045": "Ø 2\" x 208 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "152"
+        }
+      },
+      {
+        "label": "Cubo 6T 6 furos",
+        "specs": {
+          "CÓDIGO": "20.6.6.30.117.001",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "6 Ton",
+          "QTDE_FUROS": "6",
+          "ENCAIXE_RODA_MM": "117/118",
+          "EIXO_SAE_1045": "Ø 2\" x 232 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "152"
+        }
+      },
+      {
+        "label": "Cubo 6T 6 furos (2.1/4\")",
+        "specs": {
+          "CÓDIGO": "20.6.6.30.117.005",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "6 Ton",
+          "QTDE_FUROS": "6",
+          "ENCAIXE_RODA_MM": "117/118",
+          "EIXO_SAE_1045": "Ø 2.1/4\" x 212 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "152"
+        }
+      },
+      {
+        "label": "Cubo 6T 6 furos (150mm)",
+        "specs": {
+          "CÓDIGO": "20.6.6.20.117.001",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "6 Ton",
+          "QTDE_FUROS": "6",
+          "ENCAIXE_RODA_MM": "117/118",
+          "EIXO_SAE_1045": "Ø 2\" x 150 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "152"
+        }
+      },
+      {
+        "label": "Cubo 6T 6 furos (212mm)",
+        "specs": {
+          "CÓDIGO": "20.6.6.20.117.002",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "6 Ton",
+          "QTDE_FUROS": "6",
+          "ENCAIXE_RODA_MM": "117/118",
+          "EIXO_SAE_1045": "Ø 2\" x 212 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "152"
+        }
+      },
+      {
+        "label": "Cubo 6T 6 furos (232mm)",
+        "specs": {
+          "CÓDIGO": "20.6.6.20.117.004",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "6 Ton",
+          "QTDE_FUROS": "6",
+          "ENCAIXE_RODA_MM": "117/118",
+          "EIXO_SAE_1045": "Ø 2\" x 232 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "152"
+        }
+      },
+      {
+        "label": "Cubo 6T 6 furos (300mm)",
+        "specs": {
+          "CÓDIGO": "20.6.6.20.117.005",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "6 Ton",
+          "QTDE_FUROS": "6",
+          "ENCAIXE_RODA_MM": "117/118",
+          "EIXO_SAE_1045": "Ø 2\" x 300 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "152"
+        }
+      },
+      {
+        "label": "Cubo 6T 6 furos (241mm)",
+        "specs": {
+          "CÓDIGO": "20.6.6.30.117.002",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "6 Ton",
+          "QTDE_FUROS": "6",
+          "ENCAIXE_RODA_MM": "117/118",
+          "EIXO_SAE_1045": "Ø 2.1/4\" x 241 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "152"
+        }
+      },
+      {
+        "label": "Cubo 6T 6 furos (210mm)",
+        "specs": {
+          "CÓDIGO": "20.6.6.30.117.004",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "6 Ton",
+          "QTDE_FUROS": "6",
+          "ENCAIXE_RODA_MM": "117/118",
+          "EIXO_SAE_1045": "Ø 2.1/4\" x 210 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "152"
+        }
+      },
+      {
+        "label": "Cubo 6T 6 furos (2.1/2\")",
+        "specs": {
+          "CÓDIGO": "20.6.6.40.117.001",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "6 Ton",
+          "QTDE_FUROS": "6",
+          "ENCAIXE_RODA_MM": "117/118",
+          "EIXO_SAE_1045": "Ø 2.1/2\" x 243 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "152"
+        }
+      },
+      {
+        "label": "Cubo 8T 6 furos (210mm)",
+        "specs": {
+          "CÓDIGO": "20.8.6.30.130.001",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "8 Ton",
+          "QTDE_FUROS": "6",
+          "ENCAIXE_RODA_MM": "130",
+          "EIXO_SAE_1045": "Ø 2.1/4\" x 210 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "174"
+        }
+      },
+      {
+        "label": "Cubo 8T 6 furos (2.1/2\" 210mm)",
+        "specs": {
+          "CÓDIGO": "20.8.6.40.130.003",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "8 Ton",
+          "QTDE_FUROS": "6",
+          "ENCAIXE_RODA_MM": "130",
+          "EIXO_SAE_1045": "Ø 2.1/2\" x 210 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "174"
+        }
+      },
+      {
+        "label": "Cubo 8T 6 furos (2.1/2\" 212mm)",
+        "specs": {
+          "CÓDIGO": "20.8.6.40.130.001",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "8 Ton",
+          "QTDE_FUROS": "6",
+          "ENCAIXE_RODA_MM": "130",
+          "EIXO_SAE_1045": "Ø 2.1/2\" x 212 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "174"
+        }
+      },
+      {
+        "label": "Cubo 8T 6 furos (224mm)",
+        "specs": {
+          "CÓDIGO": "20.8.6.20.130.001",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "8 Ton",
+          "QTDE_FUROS": "6",
+          "ENCAIXE_RODA_MM": "130",
+          "EIXO_SAE_1045": "Ø 2\" x 224 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "174"
+        }
+      },
+      {
+        "label": "Cubo 8T 6 furos (230mm)",
+        "specs": {
+          "CÓDIGO": "20.8.6.40.130.002",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "8 Ton",
+          "QTDE_FUROS": "6",
+          "ENCAIXE_RODA_MM": "130",
+          "EIXO_SAE_1045": "Ø 2.1/2\" x 230 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "174"
+        }
+      },
+      {
+        "label": "Cubo 8T 6 furos (260mm)",
+        "specs": {
+          "CÓDIGO": "20.8.6.30.130.002",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "8 Ton",
+          "QTDE_FUROS": "6",
+          "ENCAIXE_RODA_MM": "130",
+          "EIXO_SAE_1045": "Ø 2.1/2\" x 260 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "174"
+        }
+      },
+      {
+        "label": "Cubo 8T 6 furos (282mm)",
+        "specs": {
+          "CÓDIGO": "20.8.6.40.130.004",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "8 Ton",
+          "QTDE_FUROS": "6",
+          "ENCAIXE_RODA_MM": "130",
+          "EIXO_SAE_1045": "Ø 2.1/2\" x 282 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "174"
+        }
+      },
+      {
+        "label": "Cubo 8T 6 furos (56mm)",
+        "specs": {
+          "CÓDIGO": "20.8.6.30.130.003",
+          "DESCRIÇÃO": "Cubo Agrícola",
+          "LUBRIFICAÇÃO": "Graxa",
+          "CARGA": "8 Ton",
+          "QTDE_FUROS": "6",
+          "ENCAIXE_RODA_MM": "130",
+          "EIXO_SAE_1045": "Ø 56 mm x 139 mm",
+          "PARAFUSO_CRAVO": "Ø 9/16\" x 2\"",
+          "DIAMETRO_FURACAO_MM": "174"
+        }
+      }
+    ]
+  },
+  {
+    "id": "mancal-terra-da-saudade",
+    "name": "Mancal Terra da Saudade",
+    "description": "Mancal tipo Trial intercambiável para implementos agrícolas, pode ser utilizado tanto como mancal agrícola quanto específico para grade niveladora, com opções de lubrificação a óleo ou graxa.",
+    "category": "pecas_agricolas",
+    "featured": true,
+    "image_url": "/pecasAgricolas/MancalAgricola.png",
+    "pdf_url": "",
+    "models": [
+  {
+    "label": "Mancal 182mm 1\" Óleo",
+    "specs": {
+      "Código": "10.01.02.001",
+      "Modelo": "Trial",
+      "Dimensões do Mancal (A)": "182 mm",
+      "Diâmetro do Eixo Modelo Trial (B)": "1\"",
+      "Lubrificação (C)": "Óleo",
+      "Tipo de Geometria (D)": "Quadrado",
+      "Compatível com eixos": "Redondo 1 1/4\", Quadrado 1\", Quadrado 1.1/8\""
+    }
+  },
+  {
+    "label": "Mancal 182mm 1.1/8\" Óleo",
+    "specs": {
+      "Código": "10.01.02.002",
+      "Modelo": "Trial",
+      "Dimensões do Mancal (A)": "182 mm",
+      "Diâmetro do Eixo Modelo Trial (B)": "1.1/8\"",
+      "Lubrificação (C)": "Óleo",
+      "Tipo de Geometria (D)": "Quadrado",
+      "Compatível com eixos": "Redondo 1 1/4\", Quadrado 1\", Quadrado 1.1/8\""
+    }
+  },
+  {
+    "label": "Mancal 182mm 1.1/4\" Óleo",
+    "specs": {
+      "Código": "10.01.01.001",
+      "Modelo": "Trial",
+      "Dimensões do Mancal (A)": "182 mm",
+      "Diâmetro do Eixo Modelo Trial (B)": "1.1/4\"",
+      "Lubrificação (C)": "Óleo",
+      "Tipo de Geometria (D)": "Circular",
+      "Compatível com eixos": "Redondo 1 1/4\", Quadrado 1\", Quadrado 1.1/8\""
+    }
+  },
+  {
+    "label": "Mancal 192mm 1\" Óleo",
+    "specs": {
+      "Código": "10.01.02.002",
+      "Modelo": "Trial",
+      "Dimensões do Mancal (A)": "192 mm",
+      "Diâmetro do Eixo Modelo Trial (B)": "1\"",
+      "Lubrificação (C)": "Óleo",
+      "Tipo de Geometria (D)": "Quadrado",
+      "Compatível com eixos": "Redondo 1 1/4\", Quadrado 1\", Quadrado 1.1/8\""
+    }
+  },
+  {
+    "label": "Mancal 192mm 1.1/8\" Óleo",
+    "specs": {
+      "Código": "10.01.02.003",
+      "Modelo": "Trial",
+      "Dimensões do Mancal (A)": "192 mm",
+      "Diâmetro do Eixo Modelo Trial (B)": "1.1/8\"",
+      "Lubrificação (C)": "Óleo",
+      "Tipo de Geometria (D)": "Quadrado",
+      "Compatível com eixos": "Redondo 1 1/4\", Quadrado 1\", Quadrado 1.1/8\""
+    }
+  },
+  {
+    "label": "Mancal 192mm 1.1/4\" Óleo",
+    "specs": {
+      "Código": "10.01.01.002",
+      "Modelo": "Trial",
+      "Dimensões do Mancal (A)": "192 mm",
+      "Diâmetro do Eixo Modelo Trial (B)": "1.1/4\"",
+      "Lubrificação (C)": "Óleo",
+      "Tipo de Geometria (D)": "Circular",
+      "Compatível com eixos": "Redondo 1 1/4\", Quadrado 1\", Quadrado 1.1/8\""
+    }
+  },
+  {
+    "label": "Mancal 192mm 1\" Graxa",
+    "specs": {
+      "Código": "10.02.02.001",
+      "Modelo": "Trial",
+      "Dimensões do Mancal (A)": "192 mm",
+      "Diâmetro do Eixo Modelo Trial (B)": "1\"",
+      "Lubrificação (C)": "Graxa",
+      "Tipo de Geometria (D)": "Quadrado",
+      "Compatível com eixos": "Redondo 1 1/4\", Quadrado 1\", Quadrado 1.1/8\""
+    }
+  },
+  {
+    "label": "Mancal 192mm 1.1/8\" Graxa",
+    "specs": {
+      "Código": "10.02.02.002",
+      "Modelo": "Trial",
+      "Dimensões do Mancal (A)": "192 mm",
+      "Diâmetro do Eixo Modelo Trial (B)": "1.1/8\"",
+      "Lubrificação (C)": "Graxa",
+      "Tipo de Geometria (D)": "Quadrado",
+      "Compatível com eixos": "Redondo 1 1/4\", Quadrado 1\", Quadrado 1.1/8\""
+    }
+  },
+  {
+    "label": "Mancal 192mm 1.1/4\" Graxa",
+    "specs": {
+      "Código": "10.02.01.001",
+      "Modelo": "Trial",
+      "Dimensões do Mancal (A)": "192 mm",
+      "Diâmetro do Eixo Modelo Trial (B)": "1.1/4\"",
+      "Lubrificação (C)": "Graxa",
+      "Tipo de Geometria (D)": "Circular",
+      "Compatível com eixos": "Redondo 1 1/4\", Quadrado 1\", Quadrado 1.1/8\""
+    }
+  },
+  {
+    "label": "Mancal 192mm 1\" Graxa",
+    "specs": {
+      "Código": "10.01.02.002",
+      "Modelo": "Trial",
+      "Dimensões do Mancal (A)": "192 mm",
+      "Diâmetro do Eixo Modelo Trial (B)": "1\"",
+      "Lubrificação (C)": "Graxa",
+      "Tipo de Geometria (D)": "Quadrado",
+      "Compatível com eixos": "Redondo 1 1/4\", Quadrado 1\", Quadrado 1.1/8\""
+    }
+  },
+  {
+    "label": "Mancal 192mm 1.1/8\" Graxa",
+    "specs": {
+      "Código": "10.02.02.003",
+      "Modelo": "Trial",
+      "Dimensões do Mancal (A)": "192 mm",
+      "Diâmetro do Eixo Modelo Trial (B)": "1.1/8\"",
+      "Lubrificação (C)": "Graxa",
+      "Tipo de Geometria (D)": "Quadrado",
+      "Compatível com eixos": "Redondo 1 1/4\", Quadrado 1\", Quadrado 1.1/8\""
+    }
+  },
+  {
+    "label": "Mancal 192mm 1.1/4\" Graxa",
+    "specs": {
+      "Código": "10.02.01.002",
+      "Modelo": "Trial",
+      "Dimensões do Mancal (A)": "192 mm",
+      "Diâmetro do Eixo Modelo Trial (B)": "1.1/4\"",
+      "Lubrificação (C)": "Graxa",
+      "Tipo de Geometria (D)": "Circular",
+      "Compatível com eixos": "Redondo 1 1/4\", Quadrado 1\", Quadrado 1.1/8\""
+    }
+  }
+    ]
+  }
+]
