@@ -205,7 +205,7 @@ export default function Contato() {
                   <input
                     type="hidden"
                     name="_next"
-                    value="http://localhost:5173/obrigado"
+                    value="http://alcbrasil.com.br/obrigado"
                   />
                   <div className="grid sm:grid-cols-2 gap-6">
                     <div className="space-y-2">
